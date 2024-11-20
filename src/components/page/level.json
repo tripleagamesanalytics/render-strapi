@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_levels",
+  "info": {
+    "displayName": "Level",
+    "icon": "arrow-circle-up"
+  },
+  "options": {},
+  "attributes": {
+    "subtitle": {
+      "type": "richtext",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

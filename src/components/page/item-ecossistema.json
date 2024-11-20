@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_item_ecossistemas",
+  "info": {
+    "displayName": "ItemEcossistema",
+    "icon": "chess-board"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "fullDescription": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

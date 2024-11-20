@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "manifestos",
+  "info": {
+    "singularName": "manifesto",
+    "pluralName": "manifestos",
+    "displayName": "02_Manifesto",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "subtitle": {
+      "type": "richtext",
+      "required": true
+    },
+    "paragraph": {
+      "type": "richtext",
+      "required": true
+    },
+    "highlight": {
+      "type": "richtext"
+    },
+    "subtitle2": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

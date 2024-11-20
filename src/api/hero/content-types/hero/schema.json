@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "heroes",
+  "info": {
+    "singularName": "hero",
+    "pluralName": "heroes",
+    "displayName": "01_Hero",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "subtitle": {
+      "type": "richtext",
+      "required": true
+    },
+    "button": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

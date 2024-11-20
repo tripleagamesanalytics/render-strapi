@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "in_games",
+  "info": {
+    "singularName": "in-game",
+    "pluralName": "in-games",
+    "displayName": "05_InGame",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "subtitle": {
+      "type": "richtext",
+      "required": true
+    },
+    "bulletPoint": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

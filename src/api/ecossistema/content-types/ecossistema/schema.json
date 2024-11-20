@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "ecossistemas",
+  "info": {
+    "singularName": "ecossistema",
+    "pluralName": "ecossistemas",
+    "displayName": "03_Ecossistema",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "subtitle": {
+      "type": "richtext",
+      "required": true
+    },
+    "item": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.item-ecossistema"
+    }
+  }
+}

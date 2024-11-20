@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "levels",
+  "info": {
+    "singularName": "level",
+    "pluralName": "levels",
+    "displayName": "07_Level",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Level": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.level"
+    }
+  }
+}
